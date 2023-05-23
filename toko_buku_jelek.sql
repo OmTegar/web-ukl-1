@@ -21,6 +21,9 @@ SET time_zone = "+00:00";
 -- Database: `toko_buku_jelek`
 --
 
+CREATE DATABASE IF NOT EXISTS `toko_buku_jelek`;
+USE `toko_buku_jelek`;
+
 -- --------------------------------------------------------
 
 --
